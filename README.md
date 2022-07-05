@@ -1,4 +1,4 @@
-- 👋 Wassup, I’m @Drizzer (Somebody took my username before sadly so i have to put l in end and before ;-; )
+- 👋 Wassup, I’m @Drizzer_
 - 👀 I’m do Competitive Programming.
 - 🌱 I’m currently learning Ethical hacking
 - 📫 How to reach me - "you can't"
